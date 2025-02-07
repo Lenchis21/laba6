@@ -2,6 +2,6 @@
 <androidx.fragment.app.FragmentContainerView
     android="http://schemas.android.com/apk/res/android"
     id="@+id/fragment_container_view"
-    layout_width="match_parent"
-    layout_height="match_parent"/>
+    layout_width=""
+    layout_height=""/>
 
